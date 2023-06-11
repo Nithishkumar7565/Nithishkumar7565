@@ -1,0 +1,91 @@
+
+.form{
+    position: absolute;
+text-align: center;
+padding-left: 100cm;
+padding-top: 200cm;
+
+}
+.login_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding:100px 500px 500px 100px ;
+  }
+  
+  .login_page {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  }
+  
+  .form {
+    
+    width: 300px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 10;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .message {
+    color: red;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .input_title {
+    font-weight: bold;
+  }
+  
+  .usrinput,
+  .pwdinput {
+    margin-bottom: 15px;
+  }
+  
+  .username,
+  .password {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .lgn-btn {
+    text-align: center;
+  }
+  
+  .login_btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .signLogin {
+    text-align: center;
+    display: flex;
+    
+  }
+  
+  .sign_up {
+    color: #888;
+  }
+  
+  .addlink {
+    color: #4caf50;
+  }
+  
